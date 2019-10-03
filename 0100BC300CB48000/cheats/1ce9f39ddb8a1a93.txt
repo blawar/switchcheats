@@ -1,5 +1,3 @@
-[From MAX-CHEATS.com by optantic for Final Fantasy X X2 HD Remaster 1.0.0]
-
 [FFX 9999999 GP]
 580f0000 067b0550
 580f1000 00006f68
