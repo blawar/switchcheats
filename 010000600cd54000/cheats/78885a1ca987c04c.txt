@@ -1,6 +1,4 @@
-[From MAX-CHEATS.com by eco95 for Rad Rodgers Radical Edition V1.2.0]
-
-[#01# Inf. hearts]
+ [#01# Inf. hearts]
 580f0000 0579AA20
 580f1000 00000048
 580f1000 00000080
